@@ -1,113 +1,93 @@
-# AI Orbit
+# AI Orbit — Data Ingestion Pipeline
 
-AI Orbit is an AI knowledge discovery and relationship-mapping pipeline.
+AI Orbit is a Python-based, API-first data ingestion pipeline for aggregating, normalizing, deduplicating, classifying, validating, and relationship-mapping information across the AI ecosystem.
 
-The system collects information from multiple AI-related sources, converts the collected information into a common entity format, cleans and validates the data, removes duplicates, generates relationships between entities, and stores the resulting knowledge graph as JSON.
+The project specification calls for the workflow:
 
-It also provides a queryable in-memory knowledge graph and a FastAPI interface.
+**Discovery → Extraction → Cleaning → Normalization → Deduplication → Classification → Relationship Mapping → Validation**
 
-## Final status
+## Required data scope
 
-- 158 validated entities
-- 160 relationships
-- 40 automated tests passing
-- FastAPI API with Swagger/OpenAPI documentation
+The target is a high-quality representative dataset of **250–300 records** across categories including:
 
-## Project structure
+- Tools
+- Tasks
+- Companies
+- News
+- Videos
+- Robots
+- Devices
+- Models
+- Repositories
+- MCP servers/tools
+- Collections
+- Personal AI assistants
+- Creative-generation tools
+- Recently added entities
+
+## Data schema
+
+Each entity should include:
+
+```json
+{
+  "id": "stable-generated-uuid",
+  "entity_type": "string",
+  "name": "string",
+  "description": "string",
+  "url": "string",
+  "categories": ["string"],
+  "source": {
+    "name": "string",
+    "url": "string"
+  }
+}
+```
+
+Specialized metadata is required where applicable, including model licensing/modalities/provider information, repository stars/language/last-updated information, MCP installation/runtime information, and company founding year/sector/headquarters.
+
+## Relationship mapping
+
+The pipeline must generate `data/relationships.json` containing ecosystem relationships such as:
+
+- Company → develops → Tool/Model
+- Tool → solves → Task
+- MCP → integrates_with → Tool
+- Device → runs → Model
+
+## Repository structure
 
 ```text
 AI-Orbit/
-├── src/
-│   ├── api/
-│   ├── connectors/
-│   ├── graph/
-│   ├── models/
-│   ├── processing/
-│   └── relationships/
-├── data/
+├── src/                    # Pipeline and application logic
+├── data/                   # Generated JSON datasets
 │   ├── entities.json
 │   └── relationships.json
-├── tests/
-├── run.py
-├── requirements.txt
-├── .gitignore
-└── README.md
+├── tests/                  # Automated tests
+├── run.py                  # Pipeline entry point
+├── requirements.txt        # Python dependencies
+├── .gitignore              # Files excluded from Git
+└── README.md               # Technical documentation
 ```
 
-## Entity types
+## Engineering requirements
 
-| Type | Count |
-|---|---:|
-| Repository | 50 |
-| Model | 50 |
-| News | 10 |
-| Company | 10 |
-| Task | 10 |
-| Video | 10 |
-| Device | 10 |
-| Tool | 8 |
-| **Total** | **158** |
+The implementation should demonstrate:
 
-## Relationships
+- Entity resolution and canonicalization
+- URL normalization and redirect handling
+- HTML/RSS text sanitization
+- Graceful handling of missing fields
+- Logging and resilient source connectors
+- Modular and reusable pipeline components
+- API-first discovery rather than brute-force scraping
 
-| Relationship | Count |
-|---|---:|
-| implements | 124 |
-| solves | 24 |
-| develops | 12 |
-| **Total** | **160** |
+## Expected sources
 
-## Sources
+The specification identifies GitHub, Hugging Face, YouTube, News/RSS, official product sites, and AI directories as candidate sources.
 
-- GitHub
-- Hugging Face
-- RSS/news feeds
-- Curated catalog records
+## Deliverables
 
-## Run
+The final submission should contain `src/` for pipeline logic, `data/` for final JSON outputs, `run.py` for execution, and `README.md` documenting technical decisions.
 
-Activate the virtual environment on Windows PowerShell:
-
-```powershell
-.\.venv\Scripts\Activate.ps1
-```
-
-Install dependencies:
-
-```powershell
-python -m pip install -r requirements.txt
-```
-
-Run the ingestion pipeline:
-
-```powershell
-python run.py
-```
-
-Run tests:
-
-```powershell
-python -m pytest -q
-```
-
-Run the CLI knowledge graph:
-
-```powershell
-python -m src.graph.cli
-```
-
-Run the API:
-
-```powershell
-python -m uvicorn src.api.app:app --reload
-```
-
-Swagger UI is available at `http://127.0.0.1:8000/docs`.
-
-## Technical decisions
-
-The project separates data collection, processing, validation, deduplication, relationship generation, graph operations, and API access so each stage can be tested independently.
-
-JSON was selected for the generated entity and relationship outputs because it is portable, human-readable, and easy to inspect. Entity identity uses the entity type together with the normalized URL, allowing different entity types to legitimately share the same URL.
-
-The current graph is stored in memory because the project dataset is small enough for fast dictionary-based lookup. The design can later be migrated to a persistent graph database if required.
+> **Note:** The repository currently contains the README only. The source project files and generated dataset have not yet been uploaded because they are not present as files in this conversation. Upload the project folder/ZIP and the remaining files can be added to this repository without inventing or replacing project code.
