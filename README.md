@@ -1,8 +1,8 @@
 # AI Orbit
 
-## Phase 3 — API-first discovery
+ API-first discovery
 
-Phase 3 adds real discovery adapters while preserving the exact canonical entity schema.
+ real discovery adapters while preserving the exact canonical entity schema.
 
 ### Canonical schema
 
