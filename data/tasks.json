@@ -1,0 +1,142 @@
+[
+  {
+    "entity_type": "task",
+    "name": "Text Generation",
+    "description": "Generate natural-language text from an input prompt or instruction.",
+    "url": "https://huggingface.co/tasks/text-generation",
+    "categories": [
+      "ai",
+      "task",
+      "text-generation",
+      "language"
+    ],
+    "source_name": "Hugging Face",
+    "source_url": "https://huggingface.co/"
+  },
+  {
+    "entity_type": "task",
+    "name": "Image Generation",
+    "description": "Generate images from text prompts or other supported inputs.",
+    "url": "https://huggingface.co/tasks/text-to-image",
+    "categories": [
+      "ai",
+      "task",
+      "image-generation",
+      "computer-vision"
+    ],
+    "source_name": "Hugging Face",
+    "source_url": "https://huggingface.co/"
+  },
+  {
+    "entity_type": "task",
+    "name": "Text Classification",
+    "description": "Assign text to one or more predefined categories.",
+    "url": "https://huggingface.co/tasks/text-classification",
+    "categories": [
+      "ai",
+      "task",
+      "text-classification",
+      "language"
+    ],
+    "source_name": "Hugging Face",
+    "source_url": "https://huggingface.co/"
+  },
+  {
+    "entity_type": "task",
+    "name": "Speech Recognition",
+    "description": "Convert spoken audio into written text.",
+    "url": "https://huggingface.co/tasks/automatic-speech-recognition",
+    "categories": [
+      "ai",
+      "task",
+      "speech-recognition",
+      "audio"
+    ],
+    "source_name": "Hugging Face",
+    "source_url": "https://huggingface.co/"
+  },
+  {
+    "entity_type": "task",
+    "name": "Image Classification",
+    "description": "Assign an image to one or more predefined categories.",
+    "url": "https://huggingface.co/tasks/image-classification",
+    "categories": [
+      "ai",
+      "task",
+      "image-classification",
+      "computer-vision"
+    ],
+    "source_name": "Hugging Face",
+    "source_url": "https://huggingface.co/"
+  },
+  {
+    "entity_type": "task",
+    "name": "Object Detection",
+    "description": "Identify and locate objects within an image.",
+    "url": "https://huggingface.co/tasks/object-detection",
+    "categories": [
+      "ai",
+      "task",
+      "object-detection",
+      "computer-vision"
+    ],
+    "source_name": "Hugging Face",
+    "source_url": "https://huggingface.co/"
+  },
+  {
+    "entity_type": "task",
+    "name": "Question Answering",
+    "description": "Answer questions using information provided in a context or knowledge source.",
+    "url": "https://huggingface.co/tasks/question-answering",
+    "categories": [
+      "ai",
+      "task",
+      "question-answering",
+      "language"
+    ],
+    "source_name": "Hugging Face",
+    "source_url": "https://huggingface.co/"
+  },
+  {
+    "entity_type": "task",
+    "name": "Summarization",
+    "description": "Create a shorter representation of a longer text while preserving important information.",
+    "url": "https://huggingface.co/tasks/summarization",
+    "categories": [
+      "ai",
+      "task",
+      "summarization",
+      "language"
+    ],
+    "source_name": "Hugging Face",
+    "source_url": "https://huggingface.co/"
+  },
+  {
+    "entity_type": "task",
+    "name": "Translation",
+    "description": "Translate text from one language into another.",
+    "url": "https://huggingface.co/tasks/translation",
+    "categories": [
+      "ai",
+      "task",
+      "translation",
+      "language"
+    ],
+    "source_name": "Hugging Face",
+    "source_url": "https://huggingface.co/"
+  },
+  {
+    "entity_type": "task",
+    "name": "Audio Classification",
+    "description": "Assign an audio input to one or more predefined categories.",
+    "url": "https://huggingface.co/tasks/audio-classification",
+    "categories": [
+      "ai",
+      "task",
+      "audio-classification",
+      "audio"
+    ],
+    "source_name": "Hugging Face",
+    "source_url": "https://huggingface.co/"
+  }
+]

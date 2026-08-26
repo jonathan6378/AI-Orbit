@@ -1,0 +1,92 @@
+[
+  {
+    "entity_type": "device",
+    "name": "Atlas",
+    "description": "Humanoid robot developed by Boston Dynamics for advanced mobility, manipulation, and physical AI research.",
+    "url": "https://bostondynamics.com/atlas/",
+    "categories": ["ai", "robotics", "device", "humanoid", "manipulation"],
+    "source_name": "Boston Dynamics",
+    "source_url": "https://bostondynamics.com/"
+  },
+  {
+    "entity_type": "device",
+    "name": "Spot",
+    "description": "Mobile quadruped robot platform from Boston Dynamics designed for sensing, inspection, and autonomous mobility applications.",
+    "url": "https://bostondynamics.com/products/spot/",
+    "categories": ["ai", "robotics", "device", "quadruped", "inspection"],
+    "source_name": "Boston Dynamics",
+    "source_url": "https://bostondynamics.com/"
+  },
+  {
+    "entity_type": "device",
+    "name": "Digit",
+    "description": "Humanoid robot developed by Agility Robotics for applications involving human environments and industrial work.",
+    "url": "https://www.agilityrobotics.com/robots/digit",
+    "categories": ["ai", "robotics", "device", "humanoid", "industrial"],
+    "source_name": "Agility Robotics",
+    "source_url": "https://www.agilityrobotics.com/"
+  },
+  {
+    "entity_type": "device",
+    "name": "Apollo",
+    "description": "General-purpose humanoid robot developed by Apptronik for industrial and commercial applications.",
+    "url": "https://apptronik.com/apollo",
+    "categories": ["ai", "robotics", "device", "humanoid", "industrial"],
+    "source_name": "Apptronik",
+    "source_url": "https://apptronik.com/"
+  },
+  {
+    "entity_type": "device",
+    "name": "G1",
+    "description": "Humanoid robot platform developed by Unitree Robotics for research, development, and embodied AI applications.",
+    "url": "https://www.unitree.com/g1/",
+    "categories": ["ai", "robotics", "device", "humanoid", "embodied-ai"],
+    "source_name": "Unitree Robotics",
+    "source_url": "https://www.unitree.com/"
+  },
+  {
+    "entity_type": "device",
+    "name": "H1",
+    "description": "Full-size humanoid robot platform developed by Unitree Robotics for research and embodied intelligence applications.",
+    "url": "https://www.unitree.com/h1/",
+    "categories": ["ai", "robotics", "device", "humanoid", "embodied-ai"],
+    "source_name": "Unitree Robotics",
+    "source_url": "https://www.unitree.com/"
+  },
+  {
+    "entity_type": "device",
+    "name": "Jetson Thor",
+    "description": "NVIDIA computing platform designed to provide high-performance AI computing for humanoid robots and physical AI systems.",
+    "url": "https://www.nvidia.com/en-us/robotics/jetson-thor/",
+    "categories": ["ai", "robotics", "device", "edge-ai", "robot-computing"],
+    "source_name": "NVIDIA",
+    "source_url": "https://www.nvidia.com/"
+  },
+  {
+    "entity_type": "device",
+    "name": "UR AI Accelerator",
+    "description": "Hardware and software toolkit from Universal Robots for accelerating AI-powered collaborative robot applications.",
+    "url": "https://www.universal-robots.com/",
+    "categories": ["ai", "robotics", "device", "cobot", "industrial"],
+    "source_name": "Universal Robots",
+    "source_url": "https://www.universal-robots.com/"
+  },
+  {
+    "entity_type": "device",
+    "name": "NEURA 4NE-1",
+    "description": "Humanoid robot platform from NEURA Robotics designed for intelligent interaction and physical AI applications.",
+    "url": "https://neura-robotics.com/",
+    "categories": ["ai", "robotics", "device", "humanoid", "physical-ai"],
+    "source_name": "NEURA Robotics",
+    "source_url": "https://neura-robotics.com/"
+  },
+  {
+    "entity_type": "device",
+    "name": "Figure 02",
+    "description": "Humanoid robot developed by Figure AI for general-purpose physical AI and industrial applications.",
+    "url": "https://www.figure.ai/",
+    "categories": ["ai", "robotics", "device", "humanoid", "physical-ai"],
+    "source_name": "Figure AI",
+    "source_url": "https://www.figure.ai/"
+  }
+]

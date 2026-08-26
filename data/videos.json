@@ -1,0 +1,141 @@
+[
+  {
+    "entity_type": "video",
+    "name": "AI Explained",
+    "description": "Educational video resource covering artificial intelligence concepts and developments.",
+    "url": "https://www.youtube.com/@AIExplained",
+    "categories": [
+      "ai",
+      "video",
+      "education"
+    ],
+    "source_name": "YouTube",
+    "source_url": "https://www.youtube.com/"
+  },
+  {
+    "entity_type": "video",
+    "name": "Google DeepMind",
+    "description": "Official video resource covering artificial intelligence research, models, and applications.",
+    "url": "https://www.youtube.com/@GoogleDeepMind",
+    "categories": [
+      "ai",
+      "video",
+      "research"
+    ],
+    "source_name": "YouTube",
+    "source_url": "https://www.youtube.com/"
+  },
+  {
+    "entity_type": "video",
+    "name": "Hugging Face",
+    "description": "Video resources covering machine learning, models, datasets, and open-source AI.",
+    "url": "https://www.youtube.com/@HuggingFace",
+    "categories": [
+      "ai",
+      "video",
+      "machine-learning",
+      "open-source"
+    ],
+    "source_name": "YouTube",
+    "source_url": "https://www.youtube.com/"
+  },
+  {
+    "entity_type": "video",
+    "name": "MIT OpenCourseWare AI",
+    "description": "Educational video resources covering artificial intelligence and related computer science topics.",
+    "url": "https://www.youtube.com/@mitocw",
+    "categories": [
+      "ai",
+      "video",
+      "education",
+      "course"
+    ],
+    "source_name": "YouTube",
+    "source_url": "https://www.youtube.com/"
+  },
+  {
+    "entity_type": "video",
+    "name": "Stanford Online",
+    "description": "Educational video resources covering artificial intelligence, machine learning, and computer science.",
+    "url": "https://www.youtube.com/@stanfordonline",
+    "categories": [
+      "ai",
+      "video",
+      "education",
+      "machine-learning"
+    ],
+    "source_name": "YouTube",
+    "source_url": "https://www.youtube.com/"
+  },
+  {
+    "entity_type": "video",
+    "name": "NVIDIA Developer",
+    "description": "Video resources covering AI development, accelerated computing, deep learning, and generative AI.",
+    "url": "https://www.youtube.com/@NVIDIADeveloper",
+    "categories": [
+      "ai",
+      "video",
+      "developer",
+      "deep-learning"
+    ],
+    "source_name": "YouTube",
+    "source_url": "https://www.youtube.com/"
+  },
+  {
+    "entity_type": "video",
+    "name": "OpenAI",
+    "description": "Official video resources covering AI research, products, demonstrations, and developments.",
+    "url": "https://www.youtube.com/@OpenAI",
+    "categories": [
+      "ai",
+      "video",
+      "research",
+      "generative-ai"
+    ],
+    "source_name": "YouTube",
+    "source_url": "https://www.youtube.com/"
+  },
+  {
+    "entity_type": "video",
+    "name": "Anthropic",
+    "description": "Official video resources covering Claude, AI research, safety, and AI applications.",
+    "url": "https://www.youtube.com/@anthropic-ai",
+    "categories": [
+      "ai",
+      "video",
+      "research",
+      "ai-safety"
+    ],
+    "source_name": "YouTube",
+    "source_url": "https://www.youtube.com/"
+  },
+  {
+    "entity_type": "video",
+    "name": "Microsoft AI",
+    "description": "Video resources covering artificial intelligence, Azure AI, developer tools, and AI applications.",
+    "url": "https://www.youtube.com/@MicrosoftAI",
+    "categories": [
+      "ai",
+      "video",
+      "developer",
+      "cloud"
+    ],
+    "source_name": "YouTube",
+    "source_url": "https://www.youtube.com/"
+  },
+  {
+    "entity_type": "video",
+    "name": "AWS Developers",
+    "description": "Video resources covering cloud-based artificial intelligence, machine learning, and developer technologies.",
+    "url": "https://www.youtube.com/@amazonwebservices",
+    "categories": [
+      "ai",
+      "video",
+      "developer",
+      "cloud",
+      "machine-learning"
+    ],
+    "source_name": "YouTube",
+    "source_url": "https://www.youtube.com/"
+  }
+]

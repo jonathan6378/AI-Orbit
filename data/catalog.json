@@ -1,0 +1,272 @@
+[
+  {
+    "entity_type": "tool",
+    "name": "Claude",
+    "description": "AI assistant developed by Anthropic for writing, analysis, coding, research, and general-purpose assistance.",
+    "url": "https://www.anthropic.com/claude",
+    "categories": [
+      "ai",
+      "tool",
+      "assistant",
+      "language",
+      "generative-ai"
+    ],
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com/"
+  },
+  {
+    "entity_type": "tool",
+    "name": "Gemini",
+    "description": "Google AI assistant for multimodal understanding, generation, reasoning, and productivity tasks.",
+    "url": "https://gemini.google.com/",
+    "categories": [
+      "ai",
+      "tool",
+      "assistant",
+      "language",
+      "multimodal"
+    ],
+    "source_name": "Google AI",
+    "source_url": "https://ai.google/"
+  },
+  {
+    "entity_type": "tool",
+    "name": "Google AI Studio",
+    "description": "Developer environment for experimenting with and building applications using Google's generative AI models.",
+    "url": "https://aistudio.google.com/",
+    "categories": [
+      "ai",
+      "tool",
+      "developer",
+      "generative-ai",
+      "language"
+    ],
+    "source_name": "Google AI",
+    "source_url": "https://ai.google/"
+  },
+  {
+    "entity_type": "tool",
+    "name": "Google Flow",
+    "description": "AI-powered creative filmmaking and video generation tool from Google.",
+    "url": "https://labs.google/flow",
+    "categories": [
+      "ai",
+      "tool",
+      "video",
+      "creative",
+      "generative-ai"
+    ],
+    "source_name": "Google AI",
+    "source_url": "https://ai.google/"
+  },
+  {
+    "entity_type": "tool",
+    "name": "Gemini API",
+    "description": "API platform for integrating Google's generative AI capabilities into software applications.",
+    "url": "https://ai.google.dev/",
+    "categories": [
+      "ai",
+      "tool",
+      "api",
+      "developer",
+      "generative-ai"
+    ],
+    "source_name": "Google AI",
+    "source_url": "https://ai.google/"
+  },
+  {
+    "entity_type": "tool",
+    "name": "Google Antigravity",
+    "description": "AI-assisted development environment designed to help developers build software with agentic coding capabilities.",
+    "url": "https://antigravity.google/",
+    "categories": [
+      "ai",
+      "tool",
+      "developer",
+      "coding",
+      "agent"
+    ],
+    "source_name": "Google AI",
+    "source_url": "https://ai.google/"
+  },
+  {
+    "entity_type": "tool",
+    "name": "Gemini Robotics",
+    "description": "Google DeepMind robotics technology applying multimodal AI and reasoning capabilities to robotic systems.",
+    "url": "https://deepmind.google/discover/blog/gemini-robotics/",
+    "categories": [
+      "ai",
+      "tool",
+      "robotics",
+      "embodied-ai",
+      "multimodal"
+    ],
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google/"
+  },
+  {
+    "entity_type": "tool",
+    "name": "Replicate",
+    "description": "Platform for running and deploying machine learning models through APIs and developer tools.",
+    "url": "https://replicate.com/",
+    "categories": [
+      "ai",
+      "tool",
+      "api",
+      "machine-learning",
+      "deployment"
+    ],
+    "source_name": "Replicate",
+    "source_url": "https://replicate.com/"
+  },
+  {
+    "entity_type": "company",
+    "name": "Anthropic",
+    "description": "AI company focused on developing reliable, interpretable, and useful artificial intelligence systems.",
+    "url": "https://www.anthropic.com/",
+    "categories": [
+      "ai",
+      "company",
+      "generative-ai",
+      "ai-safety"
+    ],
+    "source_name": "Anthropic",
+    "source_url": "https://www.anthropic.com/"
+  },
+  {
+    "entity_type": "company",
+    "name": "Google DeepMind",
+    "description": "AI research organization developing artificial intelligence systems and foundational research across science, reasoning, and robotics.",
+    "url": "https://deepmind.google/",
+    "categories": [
+      "ai",
+      "company",
+      "research",
+      "robotics",
+      "deep-learning"
+    ],
+    "source_name": "Google DeepMind",
+    "source_url": "https://deepmind.google/"
+  },
+  {
+    "entity_type": "company",
+    "name": "Boston Dynamics",
+    "description": "Robotics company developing advanced mobile robots for industrial, commercial, and research applications.",
+    "url": "https://bostondynamics.com/",
+    "categories": [
+      "ai",
+      "robotics",
+      "company",
+      "humanoid",
+      "quadruped"
+    ],
+    "source_name": "Boston Dynamics",
+    "source_url": "https://bostondynamics.com/"
+  },
+  {
+    "entity_type": "company",
+    "name": "Agility Robotics",
+    "description": "Robotics company developing humanoid robots and technology for industrial applications.",
+    "url": "https://www.agilityrobotics.com/",
+    "categories": [
+      "ai",
+      "robotics",
+      "company",
+      "humanoid",
+      "industrial"
+    ],
+    "source_name": "Agility Robotics",
+    "source_url": "https://www.agilityrobotics.com/"
+  },
+  {
+    "entity_type": "company",
+    "name": "Apptronik",
+    "description": "Robotics company developing humanoid robots and intelligent robotic systems for industrial applications.",
+    "url": "https://apptronik.com/",
+    "categories": [
+      "ai",
+      "robotics",
+      "company",
+      "humanoid",
+      "industrial"
+    ],
+    "source_name": "Apptronik",
+    "source_url": "https://apptronik.com/"
+  },
+  {
+    "entity_type": "company",
+    "name": "Unitree Robotics",
+    "description": "Robotics company developing quadruped and humanoid robots for research, development, and embodied AI applications.",
+    "url": "https://www.unitree.com/",
+    "categories": [
+      "ai",
+      "robotics",
+      "company",
+      "humanoid",
+      "quadruped",
+      "embodied-ai"
+    ],
+    "source_name": "Unitree Robotics",
+    "source_url": "https://www.unitree.com/"
+  },
+  {
+    "entity_type": "company",
+    "name": "NVIDIA",
+    "description": "Technology company developing accelerated computing platforms and AI technologies for robotics and physical AI.",
+    "url": "https://www.nvidia.com/",
+    "categories": [
+      "ai",
+      "robotics",
+      "company",
+      "hardware",
+      "edge-ai"
+    ],
+    "source_name": "NVIDIA",
+    "source_url": "https://www.nvidia.com/"
+  },
+  {
+    "entity_type": "company",
+    "name": "NEURA Robotics",
+    "description": "Robotics company developing cognitive robots and humanoid robotic systems for physical AI applications.",
+    "url": "https://neura-robotics.com/",
+    "categories": [
+      "ai",
+      "robotics",
+      "company",
+      "humanoid",
+      "physical-ai"
+    ],
+    "source_name": "NEURA Robotics",
+    "source_url": "https://neura-robotics.com/"
+  },
+  {
+    "entity_type": "company",
+    "name": "Figure AI",
+    "description": "AI robotics company developing general-purpose humanoid robots for real-world applications.",
+    "url": "https://www.figure.ai/",
+    "categories": [
+      "ai",
+      "robotics",
+      "company",
+      "humanoid",
+      "physical-ai"
+    ],
+    "source_name": "Figure AI",
+    "source_url": "https://www.figure.ai/"
+  },
+  {
+    "entity_type": "company",
+    "name": "Universal Robots",
+    "description": "Robotics company developing collaborative robots and automation solutions for industrial applications.",
+    "url": "https://www.universal-robots.com/",
+    "categories": [
+      "ai",
+      "robotics",
+      "company",
+      "cobot",
+      "industrial"
+    ],
+    "source_name": "Universal Robots",
+    "source_url": "https://www.universal-robots.com/"
+  }
+]

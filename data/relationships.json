@@ -1,0 +1,1861 @@
+[
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "c4995a5a-6f09-54a8-9e78-bda3c78a7f9d",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "ea1959fd-4009-500d-93d1-ad62ac1c09e2",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "81c0f112-114a-5cf7-88f4-9b70cf24df0e",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "ef2e041e-381f-5604-afcc-f2fe1210535b",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "6f27a471-0716-5691-a42e-4af797452541",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "b1d60b93-4d92-5825-a198-cd6ea0d270e7",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "7d6165b0-5160-5266-9ee5-60849335f270",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "02768abd-79a9-5b91-b33e-84428d8c2f43",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "204e2491-3368-5d99-9e8f-073ec0f863d0",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "cda49602-0ea0-5274-8a4f-fbafa3d90596",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "f654724d-d7c9-5a64-91e5-3d746ac904e8",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "fe43e8eb-df63-5b9f-b7d7-f016da4e3b69",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "bdb65295-e90c-54ef-960b-cb544a9ec693",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "8b7a2c07-5fe4-5c74-8e31-913822f2d83d",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "49704d0e-a995-5bf2-9f92-3c5b10d28662",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "8ab7485c-13d1-579c-9dc8-90308d0b7a37",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "2e997815-4a2f-5d7a-82ef-16ba0a74dbf9",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "85b869b5-c10b-5152-911e-f929e3dd7caa",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "a10bd3b2-8e88-5727-927b-077ef898c32e",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "29796033-3d2a-5e8e-b3ad-9df9178de29c",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "59cc2042-095a-5fb7-94dd-bf81a71ae494",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "4ca6dc9d-b460-590a-a832-9ac4df15608b",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "d32f1749-6db7-53f2-98ac-ce322e335827",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "88613366-0a63-5c41-ae3a-efc48e9cf609",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "3a28c241-768c-5a35-a5b1-70872b0d401c",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "d5d164b1-21eb-57a2-83fd-88ee781efba5",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "b1d60b93-4d92-5825-a198-cd6ea0d270e7",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "stable-diffusion"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "c4995a5a-6f09-54a8-9e78-bda3c78a7f9d",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "ea1959fd-4009-500d-93d1-ad62ac1c09e2",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "81c0f112-114a-5cf7-88f4-9b70cf24df0e",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "ef2e041e-381f-5604-afcc-f2fe1210535b",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "6f27a471-0716-5691-a42e-4af797452541",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "b1d60b93-4d92-5825-a198-cd6ea0d270e7",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "7d6165b0-5160-5266-9ee5-60849335f270",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "02768abd-79a9-5b91-b33e-84428d8c2f43",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "204e2491-3368-5d99-9e8f-073ec0f863d0",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "cda49602-0ea0-5274-8a4f-fbafa3d90596",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "f654724d-d7c9-5a64-91e5-3d746ac904e8",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "fe43e8eb-df63-5b9f-b7d7-f016da4e3b69",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "bdb65295-e90c-54ef-960b-cb544a9ec693",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "8b7a2c07-5fe4-5c74-8e31-913822f2d83d",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "49704d0e-a995-5bf2-9f92-3c5b10d28662",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "8ab7485c-13d1-579c-9dc8-90308d0b7a37",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "audio",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "2e997815-4a2f-5d7a-82ef-16ba0a74dbf9",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "audio",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "85b869b5-c10b-5152-911e-f929e3dd7caa",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "a10bd3b2-8e88-5727-927b-077ef898c32e",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "audio",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "29796033-3d2a-5e8e-b3ad-9df9178de29c",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "audio",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "59cc2042-095a-5fb7-94dd-bf81a71ae494",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "audio",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "4ca6dc9d-b460-590a-a832-9ac4df15608b",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "audio",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "d32f1749-6db7-53f2-98ac-ce322e335827",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "audio",
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "639e0121-66ca-5d1a-922c-d7c22e4f69d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "3a28c241-768c-5a35-a5b1-70872b0d401c",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "c4995a5a-6f09-54a8-9e78-bda3c78a7f9d",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "ea1959fd-4009-500d-93d1-ad62ac1c09e2",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "81c0f112-114a-5cf7-88f4-9b70cf24df0e",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "ef2e041e-381f-5604-afcc-f2fe1210535b",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "6f27a471-0716-5691-a42e-4af797452541",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "b1d60b93-4d92-5825-a198-cd6ea0d270e7",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "7d6165b0-5160-5266-9ee5-60849335f270",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch",
+        "safetensors"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "02768abd-79a9-5b91-b33e-84428d8c2f43",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "204e2491-3368-5d99-9e8f-073ec0f863d0",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "cda49602-0ea0-5274-8a4f-fbafa3d90596",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "f654724d-d7c9-5a64-91e5-3d746ac904e8",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "fe43e8eb-df63-5b9f-b7d7-f016da4e3b69",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "bdb65295-e90c-54ef-960b-cb544a9ec693",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "8b7a2c07-5fe4-5c74-8e31-913822f2d83d",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "49704d0e-a995-5bf2-9f92-3c5b10d28662",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "8ab7485c-13d1-579c-9dc8-90308d0b7a37",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "2e997815-4a2f-5d7a-82ef-16ba0a74dbf9",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch",
+        "safetensors"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "85b869b5-c10b-5152-911e-f929e3dd7caa",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch",
+        "safetensors"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "a10bd3b2-8e88-5727-927b-077ef898c32e",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "29796033-3d2a-5e8e-b3ad-9df9178de29c",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "59cc2042-095a-5fb7-94dd-bf81a71ae494",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "4ca6dc9d-b460-590a-a832-9ac4df15608b",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "d32f1749-6db7-53f2-98ac-ce322e335827",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "5df4b684-c126-53c5-85d2-633cd96ce323",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "3a28c241-768c-5a35-a5b1-70872b0d401c",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "c4995a5a-6f09-54a8-9e78-bda3c78a7f9d",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "ea1959fd-4009-500d-93d1-ad62ac1c09e2",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "81c0f112-114a-5cf7-88f4-9b70cf24df0e",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "93117018-20ee-5d19-b4e4-ccfa4ed92c6c",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "gpt"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "ef2e041e-381f-5604-afcc-f2fe1210535b",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "6f27a471-0716-5691-a42e-4af797452541",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "7d6165b0-5160-5266-9ee5-60849335f270",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "02768abd-79a9-5b91-b33e-84428d8c2f43",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "204e2491-3368-5d99-9e8f-073ec0f863d0",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "cda49602-0ea0-5274-8a4f-fbafa3d90596",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "f654724d-d7c9-5a64-91e5-3d746ac904e8",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "bdb65295-e90c-54ef-960b-cb544a9ec693",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "8b7a2c07-5fe4-5c74-8e31-913822f2d83d",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "49704d0e-a995-5bf2-9f92-3c5b10d28662",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "8ab7485c-13d1-579c-9dc8-90308d0b7a37",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "2e997815-4a2f-5d7a-82ef-16ba0a74dbf9",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "85b869b5-c10b-5152-911e-f929e3dd7caa",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "a10bd3b2-8e88-5727-927b-077ef898c32e",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "29796033-3d2a-5e8e-b3ad-9df9178de29c",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "59cc2042-095a-5fb7-94dd-bf81a71ae494",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "4ca6dc9d-b460-590a-a832-9ac4df15608b",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "d32f1749-6db7-53f2-98ac-ce322e335827",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "3a28c241-768c-5a35-a5b1-70872b0d401c",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "transformers"
+      ]
+    }
+  },
+  {
+    "source_id": "cd3b0e88-5548-5334-931f-4879d134d929",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "b1d60b93-4d92-5825-a198-cd6ea0d270e7",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "text-to-image"
+      ]
+    }
+  },
+  {
+    "source_id": "75fe22d7-4219-514c-b876-7a1488c87e54",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "93117018-20ee-5d19-b4e4-ccfa4ed92c6c",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "gpt"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "c4995a5a-6f09-54a8-9e78-bda3c78a7f9d",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "ea1959fd-4009-500d-93d1-ad62ac1c09e2",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "81c0f112-114a-5cf7-88f4-9b70cf24df0e",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "ef2e041e-381f-5604-afcc-f2fe1210535b",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "6f27a471-0716-5691-a42e-4af797452541",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "b1d60b93-4d92-5825-a198-cd6ea0d270e7",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "7d6165b0-5160-5266-9ee5-60849335f270",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "02768abd-79a9-5b91-b33e-84428d8c2f43",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "204e2491-3368-5d99-9e8f-073ec0f863d0",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "cda49602-0ea0-5274-8a4f-fbafa3d90596",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "f654724d-d7c9-5a64-91e5-3d746ac904e8",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "fe43e8eb-df63-5b9f-b7d7-f016da4e3b69",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "bdb65295-e90c-54ef-960b-cb544a9ec693",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch",
+        "sentiment-analysis"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "8b7a2c07-5fe4-5c74-8e31-913822f2d83d",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "49704d0e-a995-5bf2-9f92-3c5b10d28662",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "8ab7485c-13d1-579c-9dc8-90308d0b7a37",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "2e997815-4a2f-5d7a-82ef-16ba0a74dbf9",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "85b869b5-c10b-5152-911e-f929e3dd7caa",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "a10bd3b2-8e88-5727-927b-077ef898c32e",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "29796033-3d2a-5e8e-b3ad-9df9178de29c",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "59cc2042-095a-5fb7-94dd-bf81a71ae494",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "4ca6dc9d-b460-590a-a832-9ac4df15608b",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "d32f1749-6db7-53f2-98ac-ce322e335827",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "e16f3c0c-c90d-5a6e-99e2-2c6d4506c0d0",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "3a28c241-768c-5a35-a5b1-70872b0d401c",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "pytorch"
+      ]
+    }
+  },
+  {
+    "source_id": "36fb552b-8af0-50f8-be22-0d0600f28f2b",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "93117018-20ee-5d19-b4e4-ccfa4ed92c6c",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "gpt"
+      ]
+    }
+  },
+  {
+    "source_id": "d58f75c0-fa59-58cd-91cd-105252f10b94",
+    "source_type": "repository",
+    "relationship_type": "implements",
+    "target_id": "93117018-20ee-5d19-b4e4-ccfa4ed92c6c",
+    "target_type": "model",
+    "metadata": {
+      "matched_categories": [
+        "gpt"
+      ]
+    }
+  },
+  {
+    "source_id": "837b9bb1-070f-51a9-8393-ba06fe1150eb",
+    "source_type": "company",
+    "relationship_type": "develops",
+    "target_id": "5a9922bc-994f-5666-8e62-61762bbd7345",
+    "target_type": "tool",
+    "metadata": {
+      "evidence": "source_match"
+    }
+  },
+  {
+    "source_id": "ea45824d-c948-5e23-a939-7d6a845bdc0b",
+    "source_type": "company",
+    "relationship_type": "develops",
+    "target_id": "7d6d8fe3-86e2-593f-9930-b5238abfbcd8",
+    "target_type": "tool",
+    "metadata": {
+      "evidence": "source_match"
+    }
+  },
+  {
+    "source_id": "ca51facd-e9f3-51b0-99b7-27d21dd14d10",
+    "source_type": "company",
+    "relationship_type": "develops",
+    "target_id": "04028564-1952-596a-876f-db65297e0b31",
+    "target_type": "device",
+    "metadata": {
+      "evidence": "source_match"
+    }
+  },
+  {
+    "source_id": "ca51facd-e9f3-51b0-99b7-27d21dd14d10",
+    "source_type": "company",
+    "relationship_type": "develops",
+    "target_id": "f343b23b-fc42-5505-8152-238fb7a6383a",
+    "target_type": "device",
+    "metadata": {
+      "evidence": "source_match"
+    }
+  },
+  {
+    "source_id": "b549c186-3b66-5096-b464-178ed274b179",
+    "source_type": "company",
+    "relationship_type": "develops",
+    "target_id": "5783e77c-24b5-5a6d-92eb-77657c0e116c",
+    "target_type": "device",
+    "metadata": {
+      "evidence": "source_match"
+    }
+  },
+  {
+    "source_id": "e713cad2-2142-560a-8b47-fc44804eac10",
+    "source_type": "company",
+    "relationship_type": "develops",
+    "target_id": "262a8f36-711d-5188-a40a-fca24bdbb3da",
+    "target_type": "device",
+    "metadata": {
+      "evidence": "source_match"
+    }
+  },
+  {
+    "source_id": "409c556f-eca7-5fe0-9275-548777950140",
+    "source_type": "company",
+    "relationship_type": "develops",
+    "target_id": "97151e9b-d945-5dda-b086-2306d4ab82e5",
+    "target_type": "device",
+    "metadata": {
+      "evidence": "source_match"
+    }
+  },
+  {
+    "source_id": "409c556f-eca7-5fe0-9275-548777950140",
+    "source_type": "company",
+    "relationship_type": "develops",
+    "target_id": "1bcdf051-9e93-520e-84a7-b3acebf16019",
+    "target_type": "device",
+    "metadata": {
+      "evidence": "source_match"
+    }
+  },
+  {
+    "source_id": "ba50f2ce-09a2-52b7-9d48-10d5163f0ebf",
+    "source_type": "company",
+    "relationship_type": "develops",
+    "target_id": "216ef287-3b8a-511c-b6ba-fd8158310495",
+    "target_type": "device",
+    "metadata": {
+      "evidence": "source_match"
+    }
+  },
+  {
+    "source_id": "3a504008-843d-5675-a171-73ff2c2325a4",
+    "source_type": "company",
+    "relationship_type": "develops",
+    "target_id": "3a504008-843d-5675-a171-73ff2c2325a4",
+    "target_type": "device",
+    "metadata": {
+      "evidence": "source_match"
+    }
+  },
+  {
+    "source_id": "943df15b-9f4b-593c-9074-70d5d8b3f8ac",
+    "source_type": "company",
+    "relationship_type": "develops",
+    "target_id": "943df15b-9f4b-593c-9074-70d5d8b3f8ac",
+    "target_type": "device",
+    "metadata": {
+      "evidence": "source_match"
+    }
+  },
+  {
+    "source_id": "f7a079fa-104e-5a7f-823f-64ce30b62255",
+    "source_type": "company",
+    "relationship_type": "develops",
+    "target_id": "f7a079fa-104e-5a7f-823f-64ce30b62255",
+    "target_type": "device",
+    "metadata": {
+      "evidence": "source_match"
+    }
+  },
+  {
+    "source_id": "5a9922bc-994f-5666-8e62-61762bbd7345",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "ada23ba0-f0d6-50b1-bacb-bbdb4589f4ef",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "5a9922bc-994f-5666-8e62-61762bbd7345",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "861cc1eb-f5ae-5c1d-b96a-5c8051f905bf",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "5a9922bc-994f-5666-8e62-61762bbd7345",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "3b670c29-a103-55aa-a9a8-10ead43aac3c",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "5a9922bc-994f-5666-8e62-61762bbd7345",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "1ad6f99e-a7aa-518a-9929-a5bd4210d12d",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "bc4472a3-aacf-5143-b3c9-a77a003d1e46",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "3b670c29-a103-55aa-a9a8-10ead43aac3c",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "bc4472a3-aacf-5143-b3c9-a77a003d1e46",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "40239591-1974-5737-8632-3771c17d713a",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "bc4472a3-aacf-5143-b3c9-a77a003d1e46",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "ada23ba0-f0d6-50b1-bacb-bbdb4589f4ef",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "bc4472a3-aacf-5143-b3c9-a77a003d1e46",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "1ad6f99e-a7aa-518a-9929-a5bd4210d12d",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "bc4472a3-aacf-5143-b3c9-a77a003d1e46",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "861cc1eb-f5ae-5c1d-b96a-5c8051f905bf",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "07578b5f-5c96-50ef-85f8-48e504626dcf",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "3b670c29-a103-55aa-a9a8-10ead43aac3c",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "07578b5f-5c96-50ef-85f8-48e504626dcf",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "ada23ba0-f0d6-50b1-bacb-bbdb4589f4ef",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "07578b5f-5c96-50ef-85f8-48e504626dcf",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "1ad6f99e-a7aa-518a-9929-a5bd4210d12d",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "a0db9727-acc2-583d-af47-2a69588c2666",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "40239591-1974-5737-8632-3771c17d713a",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "2bc72249-a911-52f3-a168-ba48d7055f40",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "ada23ba0-f0d6-50b1-bacb-bbdb4589f4ef",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "2bc72249-a911-52f3-a168-ba48d7055f40",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "861cc1eb-f5ae-5c1d-b96a-5c8051f905bf",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "2bc72249-a911-52f3-a168-ba48d7055f40",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "3b670c29-a103-55aa-a9a8-10ead43aac3c",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "2bc72249-a911-52f3-a168-ba48d7055f40",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "1ad6f99e-a7aa-518a-9929-a5bd4210d12d",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "057f716c-d148-5c1d-af93-5c1e0d0fd41e",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "1ad6f99e-a7aa-518a-9929-a5bd4210d12d",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "7d6d8fe3-86e2-593f-9930-b5238abfbcd8",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "203abc07-6382-5803-9405-e19284061575",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "7d6d8fe3-86e2-593f-9930-b5238abfbcd8",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "90faaac6-ec3d-5411-8a5f-1a2583b0d437",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "aa79d522-5329-5b77-9171-4030201a7238",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "40239591-1974-5737-8632-3771c17d713a",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "aa79d522-5329-5b77-9171-4030201a7238",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "5b4dcc14-2fe2-541b-ba56-9cd7c82d4d88",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "aa79d522-5329-5b77-9171-4030201a7238",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "1ad6f99e-a7aa-518a-9929-a5bd4210d12d",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  },
+  {
+    "source_id": "aa79d522-5329-5b77-9171-4030201a7238",
+    "source_type": "tool",
+    "relationship_type": "solves",
+    "target_id": "0c52fc0a-6439-55c4-a39f-5335d5948675",
+    "target_type": "task",
+    "metadata": {
+      "evidence": "curated_capability_mapping"
+    }
+  }
+]
