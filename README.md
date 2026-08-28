@@ -1,6 +1,6 @@
 # AI Orbit
 
- API-first discovery
+ API-first discovery 
 
  real discovery adapters while preserving the exact canonical entity schema.
 
